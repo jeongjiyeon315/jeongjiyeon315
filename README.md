@@ -3,7 +3,7 @@
 <!--
 **jeongjiyeon315/jeongjiyeon315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Jeong Ji Yeongg
+Jeong Ji Yeon
 
 Here are some ideas to get you started:
 
