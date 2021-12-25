@@ -4,7 +4,7 @@
 **jeongjiyeon315/jeongjiyeon315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Jeong Ji Yeon
-sgdsgdsg plz
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
