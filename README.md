@@ -2,8 +2,6 @@
 
 <h2 align="center"> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮😸 </h2>
 
-<br><br>
-
 <p align="center">
 𝐼'𝑚 𝐽𝑖𝑦𝑒𝑜𝑛 𝐽𝑒𝑜𝑛𝑔 ʕتʔ 
 </p>
