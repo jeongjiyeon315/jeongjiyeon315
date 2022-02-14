@@ -23,7 +23,7 @@ My major is data science <br>
 <h3 align="center">Abőút Mé👩‍💻</h3>
 
 <p align="center">
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongjiyeon315%2Fhit-counter&count_bg=%236667AB&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongjiyeon315%2Fhit-counter&count_bg=%236667AB&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)&nbsp
   <a href="https://jeongjiyeon315.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://jeongjiyeon315.github.io/"/></a>&nbsp
   <a href="https://www.instagram.com/yeon__315/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yeon__315/"/></a>&nbsp
   <a href="mailto:wjdwldus2912@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdwldus2912@gmail.com"/></a>
