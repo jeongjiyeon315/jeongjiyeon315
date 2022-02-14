@@ -10,15 +10,14 @@ My major is data science <br>
 <h3 align="center"> ⚒️ 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜 ⚒️ </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring_boot&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon_aws&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=gitt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 <h3 align="center">Abőút Mé👩‍💻</h3>
