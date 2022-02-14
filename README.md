@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=300&section=header&text=Jiyeon%20Jeong&fontSize=60)
 
-<h3 align="center"> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮😸 </h3>
+<h2 align="center"> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮😸 </h2>
 
 <p align="center">
 𝐼'𝑚 𝐽𝑖𝑦𝑒𝑜𝑛 𝐽𝑒𝑜𝑛𝑔 ʕتʔ <br>
