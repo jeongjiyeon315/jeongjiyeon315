@@ -1,7 +1,3 @@
-<--
-
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=300&section=header&text=Jiyeon%20Jeong&fontSize=90)
 
 <h3 align="center"> Hi😸 </h3>
@@ -13,16 +9,16 @@ My major is data science <br>
 
 <h3 align="center"> ⚒️ 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜 ⚒️ </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=Spring_Boot&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Java-#007396?style=flat&logo=Java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Docker-#2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=spring_boot&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Java-#007396?style=flat&logo=java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Docker-#2496ED?style=flat&logo=docker&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/AWS-#232F3E?style=flat&logo=Amazon_AWS&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/MariaDB-#003545?style=flat&logo=MariaDB&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/AWS-#232F3E?style=flat&logo=Amazon_AWS&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Git-#F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-#232F3E?style=flat&logo=amazon_aws&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat&logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-#003545?style=flat&logo=mariadb&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-#232F3E?style=flat&logo=amazonaws&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-#F05032?style=flat&logo=gitt&logoColor=white"/>
 </p>
 
 <h3 align="center">Abőút Mé👩‍💻</h3>
