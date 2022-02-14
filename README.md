@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=300&section=header&text=Jíӳéőń%20Jéőńǵ&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=300&section=header&text=ᴊɪʏᴇᴏɴ%20ᴊᴇᴏɴɢ&fontSize=60)
 
 <h2 align="center"> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮😸 </h2>
 
