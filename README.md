@@ -27,6 +27,6 @@ My major is Data science! <br>
   <a href="https://jeongjiyeon315.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://jeongjiyeon315.github.io/"/></a>&nbsp
   <a href="https://www.instagram.com/yeon__315/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yeon__315/"/></a>&nbsp
   <a href="mailto:wjdwldus2912@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdwldus2912@gmail.com"/></a>
-  
 </p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=180&section=footer)
