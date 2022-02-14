@@ -2,10 +2,13 @@
 
 <h2 align="center"> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮😸 </h2>
 
+<br><br>
+
 <p align="center">
-𝐼'𝑚 𝐽𝑖𝑦𝑒𝑜𝑛 𝐽𝑒𝑜𝑛𝑔 ʕتʔ <br>
+𝐼'𝑚 𝐽𝑖𝑦𝑒𝑜𝑛 𝐽𝑒𝑜𝑛𝑔 ʕتʔ 
 </p>
 
+<br><br>
 <h3 align="center"> ⚒️ 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜 ⚒️ </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp
@@ -18,6 +21,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
+<br><br>
 
 <h3 align="center">Abőút Mé👩‍💻</h3>
 
