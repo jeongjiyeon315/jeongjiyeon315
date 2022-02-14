@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=300&section=header&text=Jiyeon%Jeong&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=300&section=header&text=Jiyeon%20Jeong&fontSize=60)
 
 <h3 align="center"> 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮😸 </h3>
 
