@@ -31,4 +31,4 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=180&section=footer)
 
-\\<!-- <a href="https://jeongjiyeon315.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-93A9D1?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://jeongjiyeon315.github.io/"/></a>&nbsp -->
+<!-- <a href="https://jeongjiyeon315.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-93A9D1?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://jeongjiyeon315.github.io/"/></a>&nbsp -->
