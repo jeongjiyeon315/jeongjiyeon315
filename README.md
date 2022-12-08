@@ -6,9 +6,10 @@
 𝐼'𝑚 𝐽𝑖𝑦𝑒𝑜𝑛 𝐽𝑒𝑜𝑛𝑔 ʕتʔ 
 </p>
 
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongjiyeon315">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeongjiyeon315">
-<br><br>
+<div align="center">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongjiyeon315">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeongjiyeon315">
+</div>
 
 <br><br>
 <h3 align="center"> ⚒️ 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜 ⚒️ </h3>
