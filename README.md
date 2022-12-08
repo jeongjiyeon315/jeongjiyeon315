@@ -7,13 +7,6 @@
 </p>
 
 <br><br>
-<div align="center">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongjiyeon315">
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeongjiyeon315">
-</div>
-
-<br><br>
 <h3 align="center"> ⚒️ 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜 ⚒️ </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp
@@ -34,6 +27,13 @@
   <a href="https://www.instagram.com/yeon__315/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yeon__315/"/></a>&nbsp
   <a href="mailto:wjdwldus2912@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdwldus2912@gmail.com"/></a>
 </p>
+
+<br><br>
+<div align="center">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongjiyeon315">
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeongjiyeon315">
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=93A9D1&height=180&section=footer)
 
