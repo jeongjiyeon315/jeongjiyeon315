@@ -6,8 +6,8 @@
 𝐼'𝑚 𝐽𝑖𝑦𝑒𝑜𝑛 𝐽𝑒𝑜𝑛𝑔 ʕتʔ 
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongjiyeon315)](https://solved.ac/jeongjiyeon315/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongjiyeon315)](https://github.com/jeongjiyeon/github-readme-stats) 
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongjiyeon315">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=jeongjiyeon315" height="165">
 
 <br><br>
 <h3 align="center"> ⚒️ 𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜 ⚒️ </h3>
